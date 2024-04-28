@@ -1,4 +1,4 @@
-# Mental_Health_prediction_model
+# Mental Health in workplace analysis
 Analysis of a survey dataset on mental health to understand factors influencing treatment-seeking behavior.
 
 ## Overview
@@ -32,10 +32,10 @@ The project is structured as follows:
 ## Usage
 1. Clone the repository:
    ```bash
-   git clone https://github.com/tejasprashar/Mental_Health_prediction_model.git
+   git clone https://github.com/tejasprashar/Mental_Health_in_workplace_analysis.git
 2. Navigate to the project directory:
    ```bash
-   cd mental-health-workplace-analysis
+   cd Mental_Health_in_workplace_analysis
 
 ## Contributors
 - [Tejas Prashar](https://github.com/tejasprashar)
